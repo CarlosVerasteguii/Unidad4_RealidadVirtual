@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b289c98c43c7a2f43b56ff83f6b660d8, type: 3}
+  m_Name: Conversacion Introduccion
+  m_EditorClassIdentifier: 
+  dialogos:
+  - personaje: {fileID: 11400000, guid: b76ef1d96a2e0db43a4c6c866be9081a, type: 2}
+    dialogo: "Hola\t 1"
+  - personaje: {fileID: 11400000, guid: 46bb9af191ea4f14193f37300b4c65ee, type: 2}
+    dialogo: Como estas 2
+  - personaje: {fileID: 11400000, guid: 9502224a65ca2e14db14bab9715f9cd5, type: 2}
+    dialogo: Que onda 3
+  - personaje: {fileID: 11400000, guid: b76ef1d96a2e0db43a4c6c866be9081a, type: 2}
+    dialogo: todo bien 4
+  - personaje: {fileID: 11400000, guid: 74e2b2fcd93c5b8468b3d1a4b51abda4, type: 2}
+    dialogo: Ya hicieron la tarea? 5
